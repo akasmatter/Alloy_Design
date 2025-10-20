@@ -1,7 +1,6 @@
 # Alloy_Design
 ### A Unified AI–Quantum–Physics Framework for Autonomous Alloy Discovery and Multi-Property Materials Design  
 
-**Principal Investigator:**  
 **Akash Kanji**  
 Department of Metallurgical and Materials Engineering, Jadavpur University  
 Visiting Researcher, Washington State University  
